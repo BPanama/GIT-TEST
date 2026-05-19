@@ -15,4 +15,4 @@ for i in range( len( results ) ):
         formSize += 1
 print("Score: ",score)
 print("Average: ", score/formSize)
-test = 1234
+test = 12
